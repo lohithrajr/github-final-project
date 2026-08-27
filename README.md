@@ -25,4 +25,4 @@ Where:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+   git clone [https://github.com/lohithrajr/github-final-project.git]
